@@ -2,18 +2,19 @@
 
 ### *A cluster analysis on discriminatory policies*
 
-Annabel Keppel-Palmer
-Pace University, Seidenberg School of Computer Science and Information Systems
-Advisor : Christell Scharff 
+#### Author
+ - Annabel Keppel-Palmer
+- Pace University, Seidenberg School of Computer Science and Information Systems
+- Advisor : Christell Scharff 
 
 
-### Data
+#### Data
 - This data has been extracted from the OECD (Organization ov Economic Co-Operation and Development)
 - Link to OECD website : https://www.oecd-ilibrary.org/development/data/oecd-international-development-statistics/gender-institutions-and-development-edition-2019_ba5dbd30-en
 
-## Research Question
+#### Research Question
 - By assessing discriminatory regulations, can we state which governments are actively working to lessen the gender gap?
 - Which governments/countries have the best policies in place to protect and     empower their female citizens?
 
-## Tools Used
+#### Tools Used
 - K-Means Clustering

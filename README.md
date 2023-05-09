@@ -5,7 +5,8 @@
 - Link to OECD website : https://www.oecd-ilibrary.org/development/data/oecd-international-development-statistics/gender-institutions-and-development-edition-2019_ba5dbd30-en
 
 ## Research Question
-- By assessing discriminatory gender regulations, can we state which governments across the world truly support their women?
+- By assessing discriminatory regulations, can we state which governments are actively working to lessen the gender gap?
+- Which governments/countries have the best policies in place to protect and     empower their female citizens?
 
 ## Tools Used
-- 
+- K-Means Clustering

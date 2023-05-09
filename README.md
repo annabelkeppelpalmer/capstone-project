@@ -1,5 +1,5 @@
-# **Measuring the attitudes of governments towards their female population:
-A cluster analysis on discriminatory policies
+# **Measuring the attitudes of governments towards their female population:**
+*A cluster analysis on discriminatory policies*
 
 
 ### Data

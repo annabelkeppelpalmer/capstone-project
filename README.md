@@ -2,7 +2,7 @@
 
 ### *A cluster analysis on discriminatory policies*
 
-- Annabel Keppel-Palmer
+Annabel Keppel-Palmer
 - Pace University, Seidenberg School of Computer Science and Information Systems
 - Advisor : Christell Scharff 
 

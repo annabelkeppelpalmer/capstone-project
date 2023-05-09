@@ -1,6 +1,6 @@
-### **Measuring the attitudes of governments towards their female population:**
+## **Measuring the attitudes of governments towards their female population:**
 
-*A cluster analysis on discriminatory policies*
+### *A cluster analysis on discriminatory policies*
 
 Annabel Keppel-Palmer
 

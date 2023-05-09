@@ -1,6 +1,9 @@
 ### **Measuring the attitudes of governments towards their female population:**
 
-*A cluster analysis on discriminatory policies* by Annabel Keppel-Palmer
+*A cluster analysis on discriminatory policies*
+Annabel Keppel-Palmer
+Pace University, Seidenberg School of Computer Science and Information Systems
+Advisor : Christell Scharff
 
 
 ### Data

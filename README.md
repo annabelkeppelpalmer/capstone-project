@@ -1,4 +1,5 @@
-# capstone-project
+# **Measuring the attitudes of governments towards their female population :** A cluster analysis on discriminatory policies
+
 
 ### Data
 - This data has been extracted from the OECD (Organization ov Economic Co-Operation and Development)

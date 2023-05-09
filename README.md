@@ -5,7 +5,7 @@
 #### Author
 Annabel Keppel-Palmer
 - Pace University, Seidenberg School of Computer Science and Information Systems
-- Advisor : Christell Scharff 
+- Advisor : Dr. Christelle Scharff 
 
 
 #### Data
